@@ -4,3 +4,6 @@ terraform-infra/.terraform/
 terraform-infra/*.tfstate
 terraform-infra/*.tfstate.*
 terraform-infra/.terraform.tfstate.lock.info
+
+# Terraform working directory
+.terraform/
